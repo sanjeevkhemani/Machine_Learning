@@ -1,8 +1,3 @@
-% Sanjeev Khemani
-% Machine Learning
-% Project 4
-% KSU Fall 2021 
-
 unzip('DS_IDRID.zip');
 
 imdsTrainNonDR = imageDatastore('DS_IDRID/Train/*-0.jpg');
